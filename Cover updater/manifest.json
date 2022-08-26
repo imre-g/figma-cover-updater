@@ -1,0 +1,11 @@
+{
+  "name": "Cover updater",
+  "id": "1139919076476248231",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "permissions": ["currentuser"],
+  "editorType": [
+    "figma"
+  ]
+}
